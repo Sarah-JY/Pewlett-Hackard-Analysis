@@ -3,7 +3,9 @@
 ## Overview of the Analysis: 
 The purpose of this project is to determine the number of retiring employees per title, and identify employees who are eligible to participate in mentorship programs.  Then summarize the analysis to help Bobby’s manager prepare for the upcoming “silver tsunami”as many current employees are reaching their retirement age.
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
+### Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
 ## Deliverable 1: 
 1.1 Number of Retiring Employees by Title:
 
@@ -22,14 +24,16 @@ The purpose of this project is to determine the number of retiring employees per
 ![image](https://user-images.githubusercontent.com/103588178/173491032-c75bf497-9fce-4c99-ae42-854dd1872c33.png)
 
 ## Summary: 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 There are 72,458 roles that are needed urgently to fill out as soon as these employees start to retire.
 (total count per deliverable 1.3)
 
 ![image](https://user-images.githubusercontent.com/103588178/173491071-00c5e472-baec-42d9-b65f-6bd1ceb320d9.png)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 No, we have only 1549 employees who are qualified, retirement-ready employees eligible to participate in the mentorship program. 
 (total count per deliverable 2)
 
